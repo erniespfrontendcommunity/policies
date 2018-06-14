@@ -1,6 +1,6 @@
 # Code of Conduct
 
-(forked from [http://citizencodeofconduct.org/](http://citizencodeofconduct.org/))
+Forked from [http://citizencodeofconduct.org/](http://citizencodeofconduct.org/)
 
 ## 1. Purpose
 
@@ -10,9 +10,9 @@ This code of conduct outlines our expectations for all those who participate in 
 
 We invite all those who participate in Erni ESP FrontEnd Community to help us create safe and positive experiences for everyone.
 
-## 2. Open [Source/Culture/Tech] Citizenship
+## 2. Open Spaces
 
-A supplemental goal of this Code of Conduct is to increase open [source/culture/tech] citizenship by encouraging participants to recognize and strengthen the relationships between our actions and their effects on our community.
+A supplemental goal of this Code of Conduct is to increase open [source/culture/tech] spaces by encouraging participants to recognize and strengthen the relationships between our actions and their effects on our community.
 
 Communities mirror the societies in which they exist and positive action is essential to counteract the many forms of inequality and abuses of power that exist in society.
 
@@ -77,6 +77,6 @@ jorge.artieda[at]erni-espana[dot]es, paul.melero[at]erni-espana[dot]es.
 
 ## 10. License and attribution
 
-The Citizen Code of Conduct is distributed by [Stumptown Syndicate](http://stumptownsyndicate.org) under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/). 
+The Citizen Code of Conduct (from where this one is forked) is distributed by [Stumptown Syndicate](http://stumptownsyndicate.org) under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/). 
 
 Portions of text derived from the [Django Code of Conduct](https://www.djangoproject.com/conduct/) and the [Geek Feminism Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).
