@@ -1,5 +1,7 @@
 # Code of Conduct
 
+Shortlink to this page: http://bit.ly/EFEC_CoC
+
 Forked from [http://citizencodeofconduct.org/](http://citizencodeofconduct.org/)
 
 ## 1. Purpose
